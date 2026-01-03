@@ -9,7 +9,7 @@ For data in Wang_SourceData_Fig2.mat, accd is the ACCD; ema1-3 are the first thr
 
 For data in Wang_SourceData_Fig3.mat, EP_EL is the E-P flux anomaly in El Nino years; HGT_EL is the HGT anomaly in El Nino years; nino_diff is the Nino 3.4 index from 39 CMIP6 models; SAL_EL is the SAL anomaly in El Nino years. 
 
-For data in Wang_SourceData_Fig5.mat, lat_avg is the latitude of the average SSS (s_avg_d), lat_max is the latitude of high SSS (s_max_d), lat_min is the latitude of low sss (s_min_d), lat_std is the latitude of intra-annual SSS variability (s_std_d). s_avg_a stands for zonal mean SSS data, s_max_a stands for zonal mean high SSS data, s_min_a stands for zonal mean low SSS data, s_std_a stands for zonal mean intra-annual SSS variability;
+For data in Wang_SourceData_Fig5.mat, lat_avg is the latitude of the average SSS (s_avg_d), lat_max is the latitude of high SSS (s_max_d), lat_min is the latitude of low sss (s_min_d), lat_std is the latitude of intra-annual SSS variability (s_std_d). s_avg_a stands for zonal mean SSS data (averaged from June of this year to May of the following year), s_max_a stands for zonal mean high SSS data, s_min_a stands for zonal mean low SSS data, s_std_a stands for zonal mean intra-annual SSS variability;
 
 For data in F6.mat, cent_move stands for centroid shifts of individual species during El Niño years; richness stands for fish richness data; rc_rate stands for changes in species richness during El Niño years relative to climatological baselines; XXX_dr stands for the averaged data of XXX variable; XXX_std stands for 1 σ of XXX variable;
 
